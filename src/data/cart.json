@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1 ,
+        "title": "Adidas Adipower 3.2",
+        "shortDescription": "La Adidas Adipower 3.2 es una pala potente y precisa, con forma de diamante y tecnología avanzada en carbono para estabilidad y durabilidad",
+        "longDescription": "La Adidas Adipower 3.2 es una pala de alta gama diseñada para jugadores avanzados y profesionales. Destaca por su forma de diamante, que maximiza la potencia en cada golpe. Su estructura integra carbono en toda la superficie, lo que la hace resistente y duradera. Además, utiliza la tecnología Dual Exoskeleton que mejora la estabilidad de la pala, proporcionando un extra de rigidez y reduciendo las vibraciones. Su núcleo EVA High Memory aporta gran salida de bola y control en los golpes, ideal para quienes buscan un equilibrio perfecto entre potencia y precisión",
+        "Price": 535000 ,
+        "Stock": 5 ,
+        "brand": "adidas",
+        "category": "paleta",
+        "discount": 10,
+        "tags": ["paletas", "new", "descuento" ],
+        "mainImage": "https://i.postimg.cc/BvJv9xN3/adidas-power.jpg",
+        "quantity": 2
+    },
+    {
+        "id": 9,
+        "title": "Pelota babolat ",
+        "shortDescription": "Pelotas de pádel Babolat: calidad profesional, durabilidad y un rebote uniforme para entrenamientos y partidos de alta intensidad.",
+        "longDescription": "Las pelotas de pádel Babolat están diseñadas para ofrecer un rendimiento excepcional en cada partido. Gracias a su presión interna equilibrada y su cubierta de fieltro resistente, estas pelotas aseguran un rebote óptimo y una larga durabilidad, incluso en partidos de alto ritmo. Con un control y una precisión inigualables, las pelotas Babolat proporcionan una experiencia de juego única, adaptándose tanto a jugadores profesionales como a aficionados que buscan la máxima calidad. Pensadas para destacar en cualquier tipo de pista, las pelotas de pádel Babolat son la elección ideal para quienes buscan consistencia, calidad y confianza en cada golpe.",
+        "Price": 12000,
+        "Stock": 3,
+        "brand": "babolat",
+        "category": "Pelota",
+        "discount": 0,
+        "tags": [],
+        "mainImage": "https://i.postimg.cc/br5288R1/pelota-babolat.jpg",
+        "quantity":5
+    }
+
+]

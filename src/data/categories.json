@@ -1,0 +1,37 @@
+[
+	{
+		"id": 1,
+		"title": "Adidas",
+		"image": "https://i.postimg.cc/x1RVhkRY/adidas-padel.png"
+},
+{
+		"id": 2,
+		"title": "Nox",
+		"image": "https://i.postimg.cc/zD0WzpGR/Nox.webp"
+},
+{
+		"id": 3,
+		"title": "Babolat",
+		"image": "https://i.postimg.cc/C5Vvw7h2/Babolat-Logo.jpg"
+},
+{
+		"id": 4,
+		"title": "BullPadel",
+		"image": "https://i.postimg.cc/J4rqKGGj/logo-vector-bullpadel.jpg"
+},
+{
+		"id": 5,
+		"title": "Head",
+		"image": "https://i.postimg.cc/FFBRC6KG/head.png"
+},
+{
+		"id": 6,
+		"title": "Siux",
+		"image":"https://i.postimg.cc/7LwYT8BP/siux.jpg"
+},
+{
+		"id": 7,
+		"title": "Varlion",
+		"image": "https://i.postimg.cc/k4hnZV7D/varlion.png"
+}
+]
