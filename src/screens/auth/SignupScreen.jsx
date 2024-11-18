@@ -39,7 +39,7 @@ const SignupScreen = ({navigation}) => {
             end={{ x: 1, y: 1 }}  
             style={styles.gradient}
         >
-            <Text style={styles.title}>Mundo Geek</Text>
+            <Text style={styles.title}>Padel Shop</Text>
             <Text style={styles.subTitle}>Registrate</Text>
             <View style={styles.inputContainer}>
                 <TextInput
